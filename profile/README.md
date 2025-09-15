@@ -1,6 +1,6 @@
 # 🧠 Neuralloot Systems Inc. - Advanced AI Research & Development
 
-## ⚡ **Pioneering the Future of Artificial General Intelligence**
+⚡ **Pioneering the Future of Artificial General Intelligence**
 
 **Neuralloot Systems Inc.** is a cutting-edge AI research and development organization focused on achieving true Artificial General Intelligence (AGI). We're building technologies that push the boundaries of what's possible in artificial intelligence, neural processing, and distributed computing, with a specific focus on creating systems that exhibit genuine reasoning, consciousness, and autonomous problem-solving capabilities.
 
